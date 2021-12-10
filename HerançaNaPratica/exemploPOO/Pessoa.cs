@@ -10,9 +10,9 @@ namespace exemploPOO
 
         public string Matricula { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar()//virtual permite que a classe filha sobrescreva o método
         {
-            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos e sua Matricula é {Matricula}");
+            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
         }
     }
 }

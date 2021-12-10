@@ -6,12 +6,21 @@ namespace exemploPOO
     {
         static void Main(string[] args)
         {
-            Aluno aluno = new Aluno();
-            aluno.Nome = "João";
-            aluno.Idade = 20;
-            aluno.Matricula = "12345";
+            Aluno al = new Aluno();
+            al.Nome = "João";
+            al.Idade = 20;
+            al.Matricula = "12345";
+            al.Nota = 10;
 
-            aluno.Apresentar();
+            al.Apresentar();
+
+            Professor prof = new Professor();
+            prof.Nome = "Maria";
+            prof.Idade = 40;
+            prof.Matricula = "12345";
+            prof.Salario = 6000;
+
+            prof.Apresentar();
         }
     }
 }
