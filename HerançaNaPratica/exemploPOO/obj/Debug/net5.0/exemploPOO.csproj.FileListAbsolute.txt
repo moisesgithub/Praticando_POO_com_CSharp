@@ -1,0 +1,16 @@
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.csproj.AssemblyReference.cache
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.AssemblyInfoInputs.cache
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.AssemblyInfo.cs
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.csproj.CoreCompileInputs.cache
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\exemploPOO.exe
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\exemploPOO.deps.json
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\exemploPOO.runtimeconfig.json
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\exemploPOO.runtimeconfig.dev.json
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\exemploPOO.dll
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\ref\exemploPOO.dll
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\bin\Debug\net5.0\exemploPOO.pdb
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.dll
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\ref\exemploPOO.dll
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.pdb
+C:\DEV\POO_Exemplos\HerançaNaPratica\exemploPOO\obj\Debug\net5.0\exemploPOO.genruntimeconfig.cache
