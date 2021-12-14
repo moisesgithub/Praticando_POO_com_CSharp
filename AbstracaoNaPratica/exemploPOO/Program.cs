@@ -8,12 +8,18 @@ namespace exemploPOO
     {
         static void Main(string[] args)
         {
-            Pessoa p1 = new Pessoa();
+            Computador comp = new Computador();
+            System.Console.WriteLine(comp.ToString());
+
+            
+            
+            
+            /*Pessoa p1 = new Pessoa();
 
             p1.Nome = "Maria";
             p1.Idade = 20;
 
-            p1.Apresentar();
+            p1.Apresentar();*/
         }
     }
 }
