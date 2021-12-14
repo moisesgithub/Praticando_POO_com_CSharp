@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\POO_AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj": {}
+    "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\POO_AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj": {
+    "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\POO_AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj",
+        "projectUniqueName": "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj",
         "projectName": "exemploPOO",
-        "projectPath": "C:\\DEV\\POO_AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj",
+        "projectPath": "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\exemploPOO.csproj",
         "packagesPath": "C:\\Users\\MoiNaNi\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\POO_AbstracaoNaPratica\\exemploPOO\\obj\\",
+        "outputPath": "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MoiNaNi\\AppData\\Roaming\\NuGet\\NuGet.Config",

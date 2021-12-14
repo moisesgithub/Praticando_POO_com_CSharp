@@ -5,10 +5,17 @@ namespace exemploPOO
     class Program
     {
         static void Main(string[] args)
-        {
-            Calculadora calc = new Calculadora();//instancia da classe Calculadora
-            Console.WriteLine("Resultado da 1ª soma: " + calc.Somar(10, 20));//chamando o método somar da classe Calculadora
-            Console.WriteLine("Resultado da 2ª soma: " + calc.Somar(10, 20, 30));
+        {                            
+            Corrente c1 = new Corrente();
+            c1.Creditar(100);
+
+            c1.ExibirSaldo();
+
+
+
+            //Calculadora calc = new Calculadora();//instancia da classe Calculadora
+            //Console.WriteLine("Resultado da 1ª soma: " + calc.Somar(10, 20));//chamando o método somar da classe Calculadora
+            //Console.WriteLine("Resultado da 2ª soma: " + calc.Somar(10, 20, 30));
             
             
             /*Aluno al = new Aluno();
