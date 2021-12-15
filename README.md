@@ -14,16 +14,15 @@
 8. Manipulando Arquivos, onde aprendi a 
 - Listar Diretórios;
 - Listar Diretórios;
-- Listar arquivos
-- Criar diretório
-- Apagar diretório
-- Criar arquivo texto
-- Criar arquivo texto com stream
-- Adicionar novas linhas em um arquivo
-- Lendo Arquivos
-- Movendo arquivo
+- Listar arquivos;
+- Criar diretório;
+- Apagar diretório;
+- Criar arquivo texto;
+- Criar arquivo texto com stream;
+- Adicionar novas linhas em um arquivo;
+- Lendo Arquivos;
+- Movendo arquivo;
 - Copiando arquivo e
-- Deletando arquivo
+- Deletando arquivo.
 
 #### Aqui o aprendizado não para!
-
