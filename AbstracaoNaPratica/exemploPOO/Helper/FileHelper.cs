@@ -96,6 +96,10 @@ namespace exemploPOO.Helper
         public void CopiarArquivo(string caminho, string novoCaminho, bool sobreescrever)
         {
           File.Copy(caminho, novoCaminho, sobreescrever);
-        }    
+        }   
+        public void DeletarArquivo(string caminho)
+        {
+          File.Delete(caminho);
+        } 
     }    
 }

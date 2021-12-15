@@ -35,7 +35,8 @@ namespace exemploPOO
             //helper.AdicionarTextoStream(caminhoArquivo, listaStringContinuacao);    
             //helper.LerArquivoStream(caminhoArquivo);
             //helper.MoverArquivo(caminhoArquivo, novoCaminhoArquivo, false);
-            helper.CopiarArquivo(caminhoArquivoTeste, caminhoArquivoTesteCopia, false);
+            //helper.CopiarArquivo(caminhoArquivoTeste, caminhoArquivoTesteCopia, false);
+            helper.DeletarArquivo(caminhoArquivoTesteCopia);//Cuidado com esse método, ele apaga o arquivo, não tem lixeira para recuperar!
 
             
             //ICAlculadora calc = new Calculadora();
