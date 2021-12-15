@@ -30,5 +30,10 @@ namespace exemploPOO.Helper
           var retorno = Directory.CreateDirectory(caminho);
           System.Console.WriteLine(retorno.FullName);
         }
-    }
+        public void ApagarDiretorio(string caminho, bool apagarArquivos)
+        {
+          Directory.Delete(caminho, apagarArquivos);//Cuidado com esse método Directory.Delete, 
+                                                    //ele apaga os arquivos dentro do diretorio, não tem lixeira para recuperar!
+        }
+    }    
 }
