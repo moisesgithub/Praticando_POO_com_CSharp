@@ -13,7 +13,8 @@ namespace exemploPOO
             var caminho = "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\Helper";
             
             FileHelper helper = new FileHelper();
-            helper.ListarDiretorios(caminho);
+            //helper.ListarDiretorios(caminho);
+            helper.ListarArquivosDiretorios(caminho);
             
             //ICAlculadora calc = new Calculadora();
             //Console.WriteLine(calc.Somar(10, 20));            
