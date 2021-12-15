@@ -89,5 +89,9 @@ namespace exemploPOO.Helper
             }            
           }
         }
+        public void MoverArquivo(string caminho, string moverCaminho)
+        {
+          File.Move(caminho, moverCaminho);
+        }
     }    
 }
