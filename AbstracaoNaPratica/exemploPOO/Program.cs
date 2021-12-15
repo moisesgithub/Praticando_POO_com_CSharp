@@ -28,8 +28,9 @@ namespace exemploPOO
             //helper.CriarDiretorios(caminhoPathCombine);//path.combine é para juntar os caminhos
             //helper.ApagarDiretorio(caminhoPathCombine, true);//Cuidado com o true, ele apaga os arquivos dentro do diretorio
             //helper.CriarArquivoTexto(caminhoArquivo, "Teste escrita de arquivo!");
-            helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
-            helper.AdicionarTextoStream(caminhoArquivo, listaStringContinuacao);    
+            //helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
+            //helper.AdicionarTextoStream(caminhoArquivo, listaStringContinuacao);    
+            helper.LerArquivoStream(caminhoArquivo);
 
             
             //ICAlculadora calc = new Calculadora();
