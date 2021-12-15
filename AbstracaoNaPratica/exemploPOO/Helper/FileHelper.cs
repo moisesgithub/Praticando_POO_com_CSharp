@@ -35,5 +35,12 @@ namespace exemploPOO.Helper
           Directory.Delete(caminho, apagarArquivos);//Cuidado com esse método Directory.Delete, 
                                                     //ele apaga os arquivos dentro do diretorio, não tem lixeira para recuperar!
         }
+        public void CriarArquivoTexto(string caminho, string conteudo)
+        {
+          if (!File.Exists(caminho))
+          {
+            File.WriteAllText(caminho, conteudo);
+          }
+        }
     }    
 }

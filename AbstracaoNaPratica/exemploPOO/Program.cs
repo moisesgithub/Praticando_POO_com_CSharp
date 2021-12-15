@@ -13,6 +13,7 @@ namespace exemploPOO
         {
             var caminho = "C:\\DEV\\POO_Exemplos\\AbstracaoNaPratica\\exemploPOO\\Helper";
             var caminhoPathCombine = (Path.Combine(caminho, "Pasta Teste 1"));
+            var caminhoArquivo = Path.Combine(caminho, "arquivo-teste.txt");
             
             FileHelper helper = new FileHelper();
             //helper.ListarDiretorios(caminho);
@@ -20,7 +21,8 @@ namespace exemploPOO
 
             //System.Console.WriteLine("Criando diretorio: " + caminhoPathCombine);
             //helper.CriarDiretorios(caminhoPathCombine);//path.combine é para juntar os caminhos
-            helper.ApagarDiretorio(caminhoPathCombine, true);//Cuidado com o true, ele apaga os arquivos dentro do diretorio
+            //helper.ApagarDiretorio(caminhoPathCombine, true);//Cuidado com o true, ele apaga os arquivos dentro do diretorio
+            helper.CriarArquivoTexto(caminhoArquivo, "Teste escrita de arquivo!");
             
             //ICAlculadora calc = new Calculadora();
             //Console.WriteLine(calc.Somar(10, 20));            
